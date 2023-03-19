@@ -1,0 +1,19 @@
+.card-title,
+.card-text {
+  font-size: 0.8rem;
+  color: white;
+}
+
+.card-img-top {
+  height: 60%;
+}
+
+.card {
+  background-color: currentColor;
+  border: 1px solid #ffc107;
+}
+
+.list-movie thead th {
+  background-color: #ffc107;
+  color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity));
+}

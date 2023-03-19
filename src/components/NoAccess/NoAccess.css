@@ -1,0 +1,13 @@
+.nofilmfound {
+    margin: 10rem 30rem;
+    display: flex;
+}
+
+.nofilmfound img {
+    max-height: 10rem;
+}
+
+.nofilmfound .title {
+    text-align: center;
+    align-self: center;
+}
